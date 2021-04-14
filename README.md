@@ -18,6 +18,7 @@ The arduino program parses the incomming data and lights up a led strip (connect
 - Open up the millumin project
 - Use the timeline to create some keys
 - Open up the processing program
+- Install the OSCP5 library (which is used for communication : through the "Sketch" menu -> "Import Library" -> "Add Library" -> search "OSCP5' -> click install)
 - Connect an arduino with a led strip on it (D9)
 - Flash the arduino program on your board (tested with uno)
 - Launch the processing program
